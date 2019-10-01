@@ -1,0 +1,12 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .gitignore	(date 1569971402000)
++++ .gitignore	(date 1569971591506)
+@@ -99,3 +99,4 @@
+ 
+ # End of https://www.gitignore.io/api/java,eclipse
+ /src/
++/src/
